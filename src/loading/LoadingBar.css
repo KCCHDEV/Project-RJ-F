@@ -1,0 +1,21 @@
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loading-bar {
+  width: 100%;
+  height: 4px;
+  background-color: #eee;
+  margin-bottom: 20px;
+  max-width: 500px; /* optional: set a max-width for the loading bar container */
+}
+
+.bar {
+  height: 100%;
+  width: 0%;
+  background-color: #3498db;
+  transition: width 0.5s ease-in-out;
+}

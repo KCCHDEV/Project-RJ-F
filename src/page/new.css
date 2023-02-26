@@ -1,0 +1,17 @@
+.box-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .box {
+    box-shadow: 10px 10px 5px #04935f;
+    width: 1000px;
+    height: 400px;
+    background-color: #04AA6D;
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+  }

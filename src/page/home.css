@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;600;700&display=swap');
+
+.homemin {
+    font-size: 0%;
+}
+
+.homemin h1 {
+    font-family: 'Chakra Petch', sans-serif;
+    margin-top: 2%;
+    margin-left: 2.5%;
+    font-size: 8vh;
+}
+
+.homemin h2 {
+    font-family: 'Chakra Petch', sans-serif;
+    margin-top: 0%;
+    margin-left: 2.5%;
+    font-size: 4vh;
+}
+
+.homemin img {
+    margin-top: -5%;
+    margin-left: 80%;
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+   border-color: black;
+}
